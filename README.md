@@ -47,4 +47,4 @@
 ---
 
 ### Connect with Me 🔗
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle)](https://www.kaggle.com/amarahmed)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle)]([https://www.kaggle.com/amarahmed](https://www.kaggle.com/amarahmedhamed))
